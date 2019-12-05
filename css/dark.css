@@ -1,0 +1,23 @@
+body, .container-fluid, .container {
+    background-color: #1d1d1d;
+    color: #dddddd;
+    font-family: monospace;
+}
+.header-text {
+    margin-top: auto;
+    margin-bottom: auto;
+    padding: 15px;
+    color: #aaaaaa
+}
+.pageheader {
+    background-color: #131313;
+}
+li {
+    margin: 20px;
+    text-decoration: none;
+    vertical-align: middle;
+    font-size: large;
+}
+.left-nav {
+    text-align: end;
+}
